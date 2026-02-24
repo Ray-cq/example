@@ -1,0 +1,2 @@
+# example
+show some object
